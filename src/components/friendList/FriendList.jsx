@@ -1,7 +1,6 @@
 import PropTypes from 'prop-types';
 import css from './FriendList.module.css'
 export default function FriendsList({ friends }) {
-  { const isOnline = true }
   return (
     <ul className={css.friendList}>
       {friends.map(({ avatar, name, isOnline, id }) => (
