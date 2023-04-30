@@ -1,12 +1,12 @@
 .container {
-    background: #f0f7f7;
-    padding: 30px;
+  background: #f0f7f7;
+  padding: 30px;
 }
 
 *,
 *:before,
 *:after {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 p,
@@ -16,22 +16,22 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0;
+  margin: 0;
 }
 
 ul {
-    margin: 0;
-    padding-left: 0;
-    list-style-type: none;
+  margin: 0;
+  padding-left: 0;
+  list-style-type: none;
 }
 
 address {
-    font-style: normal;
+  font-style: normal;
 }
 
 img {
-    display: block;
-    /* width: 100%;
+  display: block;
+  /* width: 100%;
     max-width: 100%;
     height: auto; */
 }
