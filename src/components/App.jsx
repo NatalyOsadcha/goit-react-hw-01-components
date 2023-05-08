@@ -2,7 +2,7 @@ import css from './App.module.css';
 import user from '../data/user.json';
 import data from '../data/statistics.json';
 import friends from '../data/friendList.json';
-import transactions from '../data/transaction';
+import transactions from '../data/transaction.json';
 import Profile from './profile/Profile';
 import Statistics from './statistics/Statistics';
 import FriendList from './friendList/FriendList';
